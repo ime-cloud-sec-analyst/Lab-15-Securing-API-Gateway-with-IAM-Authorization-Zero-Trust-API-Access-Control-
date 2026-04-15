@@ -1,4 +1,5 @@
 🔐 Lab 15 — Securing API Gateway with IAM Authorization (Zero Trust API Access Control)
+
 📌 Overview
 
 In this lab, I implemented identity-based access control for an AWS API Gateway endpoint, enforcing a Zero Trust model where all requests must be authenticated using AWS IAM.
